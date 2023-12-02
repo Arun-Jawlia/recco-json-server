@@ -1,147 +1,26 @@
 {
   "products": [
     {
-      "id": 1,
-      "product_name": "Chicken Breast Fillets",
-      "brand": "Nestle",
-      "price": "600",
-      "status": "Missing, but very Urgent",
-      "quantity": "10",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg"
-    },
-    {
-      "id": 2,
-      "product_name": "Chicken Breast Fillets",
-      "brand": "Nestle",
-      "price": "100",
-      "status": "Approved",
-      "quantity": "5",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg"
-    },
-    {
-      "id": 3,
-      "product_name": "Chicken Breast Fillets",
-      "brand": "Nestle",
-      "price": "60",
-      "status": "Missing, but not Urgent",
-      "quantity": "20",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg"
-    },
-    {
-      "id": 4,
-      "product_name": "Chicken Breast Fillets",
-      "brand": "Nestle",
-      "price": "700",
-      "status": "Approved",
-      "quantity": "2",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg"
-    },
-    {
-      "id": 5,
-      "product_name": "Chicken Breast Fillets",
-      "brand": "Nestle",
-      "price": "200",
-      "status": "Approved",
-      "quantity": "3",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg"
-    },
-    {
-      "id": 6,
-      "product_name": "Chicken Breast Fillets",
-      "brand": "Nestle",
-      "price": "300",
-      "status": "Approved",
-      "quantity": "10",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg"
-    },
-    {
-      "id": 7,
-      "product_name": "Chicken Breast Fillets",
-      "brand": "Nestle",
-      "price": "800",
-      "status": "Approved",
-      "quantity": "8",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg"
-    },
-    {
-      "id": 8,
-      "product_name": "Chicken Breast Fillets",
-      "brand": "Nestle",
-      "price": "900",
-      "status": "Missing, but not Urgent",
-      "quantity": "2",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg"
-    },
-    {
-      "product_name": "Happy Chicken",
-      "brand": "Meat Up",
-      "price": "200",
-      "quantity": "10",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg",
-      "status": "Missing, but very Urgent",
-      "id": 9
-    },
-    {
-      "product_name": "Happy Chicken",
-      "brand": "Meat Up",
-      "price": "200",
-      "quantity": "10",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg",
-      "status": "Missing, but very Urgent",
-      "id": 10
-    },
-    {
-      "product_name": "Not Happy Chicken",
-      "brand": "Pet",
+      "product_name": "Apple ",
+      "brand": "organic ",
       "price": "20",
       "quantity": "10",
       "previous_price": "",
       "previous_quantity": "",
       "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg",
-      "status": "Missing, but not Urgent",
-      "id": 11
+      "status": "Missing, Urgent",
+      "id": 1
     },
     {
-      "product_name": "Chicken balls",
-      "brand": "pedigree",
-      "price": "5",
-      "quantity": "10",
+      "product_name": "Banana",
+      "brand": "Organci Store",
+      "price": "50",
+      "quantity": "20",
       "previous_price": "",
       "previous_quantity": "",
       "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg",
       "status": "",
-      "id": 12
-    },
-    {
-      "product_name": "chicken balls",
-      "brand": "pdirgree",
-      "price": "100",
-      "quantity": "10",
-      "previous_price": "",
-      "previous_quantity": "",
-      "img": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg",
-      "status": "",
-      "id": 13
+      "id": 2
     }
   ]
 }
